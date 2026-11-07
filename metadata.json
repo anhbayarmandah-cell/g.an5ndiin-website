@@ -1,0 +1,6 @@
+{
+  "name": "Ананд - Хувийн танилцуулга хуудас",
+  "description": "2010.07.15-нд төрсөн, сагсан бөмбөгч, ирээдүйн Software Engineer & Founder Анандын хувийн танилцуулга хуудас.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
